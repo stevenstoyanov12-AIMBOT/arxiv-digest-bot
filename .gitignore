@@ -1,0 +1,5 @@
+seen_papers.db
+digests/
+__pycache__/
+*.pyc
+.env
